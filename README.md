@@ -1,4 +1,4 @@
-# student_performance
+# Student Performance in annual mathematics exams in Portugal secondary school
 Decision tree used to build hierarchical rules; can we predict student success?  
 
 ## Step 1  
