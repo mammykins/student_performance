@@ -1,6 +1,10 @@
 # Student Performance in annual mathematics exams in Portugal secondary school
 Decision tree used to build hierarchical rules; can we predict student success?  
 
+For full details open the student_perf_math.Rmd file.  
+
+A summary of the steps involved in this analysis.  
+
 ## Step 1  
 Exploring and preparing the data.  
   
